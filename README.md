@@ -1,3 +1,4 @@
+![logo](https://github.com/jash0622/jasraj-bhavsar/blob/main/Screenshot%202025-08-13%20235304.png)
 <h1 align="center">Hi 👋, I'm Jasraj Bhavsar</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
